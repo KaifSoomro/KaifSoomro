@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaif Soomro</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" alt="Banner"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*L_QoAG863l8QvqxpNyBiqw.gif" alt="Banner"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifsoomro&label=Profile%20views&color=0e75b6&style=flat" alt="kaifsoomro" /> </p>
 
