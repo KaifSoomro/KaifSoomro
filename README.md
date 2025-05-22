@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/KaifSoomro" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Kaif Soomro" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Kaif-Soomro/pfbid032CauWHhJ9fqbwNifsodawSufVwKekQA8qY7h4NCaEnoxs4Hbd4fkPUNxULewU6f2l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaif soomro" height="30" width="40" /></a>
 </p>
 
