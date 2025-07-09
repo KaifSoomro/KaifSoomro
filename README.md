@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaif Soomro</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate full stack developer from Pakistan</h3>
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*L_QoAG863l8QvqxpNyBiqw.gif" alt="Banner"/>
 
