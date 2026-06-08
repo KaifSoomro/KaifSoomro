@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaif Soomro</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">AI + Full Stack Mern From Pakistan</h3>
 
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="Banner"/>
 
