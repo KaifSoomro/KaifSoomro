@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaif Soomro</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*L_QoAG863l8QvqxpNyBiqw.gif](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="Banner"/>
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="Banner"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaifsoomro&label=Profile%20views&color=0e75b6&style=flat" alt="kaifsoomro" /> </p>
 
