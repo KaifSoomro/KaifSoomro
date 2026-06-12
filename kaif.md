@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaif Soomro</h1>
-<h3 align="center">AI + Full Stack Developer | MERN Stack Enthusiast | Pakistan 🇵🇰</h3>
+<h3 align="center">AI + Full Stack Developer | MERN + Next.js Enthusiast | Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif" alt="banner" width="100%" />
@@ -13,27 +13,29 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **MERN Stack & AI-powered web apps**
+- 🔭 Currently building **MERN & Next.js full-stack applications**
 - 🌱 Learning **Advanced Node.js, Express.js & System Design**
-- 💡 Passionate about **clean UI, scalable backend & SaaS products**
-- 💬 Ask me about **React, Node.js, Tailwind, GSAP**
+- 💡 Passionate about **SaaS products, scalable backend & modern UI**
+- 💬 Ask me about **React, Next.js, Node.js, Tailwind, GSAP**
 - 📫 Reach me: **kaifsoomro82@gmail.com**
 
 ---
 
 ## 🧠 Tech Stack
 
-<p align="center">
-
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,ts,html,css" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,ts,html,css" />
+</p>
 
 ### Backend
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
 ### Tools & Design
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,postman,figma,photoshop,illustrator" />
-
 </p>
 
 ---
@@ -41,9 +43,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.facebook.com/people/Kaif-Soomro/pfbid032CauWHhJ9fqbwNifsodawSufVwKekQA8qY7h4NCaEnoxs4Hbd4fkPUNxULewU6f2l/">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
+
+<a href="https://www.facebook.com/people/Kaif-Soomro/pfbid032CauWHhJ9fqbwNifsodawSufVwKekQA8qY7h4NCaEnoxs4Hbd4fkPUNxULewU6f2l/">
+  <img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="https://instagram.com/">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 </p>
 
 ---
@@ -63,6 +71,4 @@
 
 ## ⚡ Dev Vibes
 
-> “Code. Build. Break. Fix. Repeat.”
-
----
+> “Build like a startup. Think like an engineer. Ship like a founder.”
