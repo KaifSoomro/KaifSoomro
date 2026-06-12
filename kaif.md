@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://instagram.com/kaif__soomro">
+<a href="https://www.linkedin.com/in/kaif-soomro-72368b2b8/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
