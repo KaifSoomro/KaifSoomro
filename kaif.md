@@ -44,12 +44,16 @@
 
 <p align="center">
 
-<a href="https://www.facebook.com/people/Kaif-Soomro/pfbid032CauWHhJ9fqbwNifsodawSufVwKekQA8qY7h4NCaEnoxs4Hbd4fkPUNxULewU6f2l/">
-  <img src="https://skillicons.dev/icons?i=facebook" />
+<a href="https://www.facebook.com/share/19u9hZUF5T/">
+  <img src="https://marketplace.canva.com/KrzKM/MAGzNqKrzKM/1/tl/canva-facebook-logo-MAGzNqKrzKM.png" />
 </a>
 
-<a href="https://instagram.com/">
+<a href="https://instagram.com/kaif__soomro">
   <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://instagram.com/kaif__soomro">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
