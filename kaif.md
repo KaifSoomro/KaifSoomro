@@ -45,7 +45,7 @@
 <p align="center">
 
 <a href="https://www.facebook.com/share/19u9hZUF5T/">
-  <img src="https://marketplace.canva.com/KrzKM/MAGzNqKrzKM/1/tl/canva-facebook-logo-MAGzNqKrzKM.png" />
+  <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 
 <a href="https://instagram.com/kaif__soomro">
