@@ -38,7 +38,9 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"/>
 
-<font color="#3B82F6"><b>$ whoami</b></font>
+<h2>
+  <font color="#3B82F6"><b>$ whoami</b></font>
+</h2>
 
 Kaif Soomro
 AI + Full Stack Developer
