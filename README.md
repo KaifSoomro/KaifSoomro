@@ -46,10 +46,20 @@ Pakistan 🇵🇰
 
 $ skills --list
 
-React        Next.js        TypeScript
-Node.js      Express.js     MongoDB
-Tailwind     GSAP           Redux
-Git          GitHub         REST APIs
+<ul>
+  <li>React</li>
+  <li> Next.js </li>
+  <li>TypeScript</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MongoDB</li>
+  <li>Tailwind</li>
+  <li>GSAP</li>
+  <li>Redux</li>
+  <li>Git</li>
+  <li>GitHub</li>
+  <li>REST APIs</li>
+</ul>                      
 
 $ mission
 
