@@ -6,8 +6,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=AI+%2B+Full+Stack+Developer;MERN+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Crafting+Modern+%26+Interactive+UI;Turning+Ideas+Into+Digital+Products+🚀" />
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=kaifsoomro&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
