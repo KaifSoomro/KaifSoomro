@@ -178,6 +178,8 @@ State          ██████████████████░░░�
 <br/>
 <br/>
 Security       █████████████████░░░░░  JWT • Helmet • Rate Limiting
+<br/>
+<br/>
 Tools          ███████████████████░░░  Git • GitHub • Postman • VS Code
 <br/>
 <br/>
