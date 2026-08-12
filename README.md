@@ -36,9 +36,9 @@
 
 ## ✦ About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"/>
 
-$ whoami
+<b style="color: green;">$ whoami</b>
 
 Kaif Soomro
 AI + Full Stack Developer
