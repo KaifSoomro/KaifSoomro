@@ -163,12 +163,19 @@ Experimenting with **SaaS ideas, AI-powered products and developer tools**.
 ## 🔥 My Development Stack
 
 Frontend       ████████████████████░░  React • Next.js • TypeScript
+<br/>
 Backend        ███████████████████░░░  Node.js • Express.js
+<br/>
 Database       ██████████████████░░░░  MongoDB • MySQL
+<br/>
 UI / UX        ████████████████████░░  Tailwind • GSAP • Framer Motion
+<br/>
 State          ██████████████████░░░░  Redux Toolkit • TanStack Query
+<br/>
 Security       █████████████████░░░░░  JWT • Helmet • Rate Limiting
+<br/>
 Tools          ███████████████████░░░  Git • GitHub • Postman • VS Code
+<br/>
 AI             ███████████████░░░░░░░  Exploring GenAI & AI Applications
 
 <!-- ========================= FOOTER ========================= -->
